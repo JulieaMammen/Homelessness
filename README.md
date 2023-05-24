@@ -15,3 +15,9 @@ The steps taken to clean the data set involved ensuring there are no missing val
 
 The file the performs the data preparation is:
   JulieMammen-DATA 3320 Homelessness Data Preparation.ipynb
+
+## Data Analysis
+The steps taken to analyze the data involves creating multiple regression models such as lasso, ridge, and XGBoost, in order to answer our overall question. 
+
+The file that performs the data analysis is:
+  JulieMammen-DATA 3320 Homelessness Analysis.ipynb
